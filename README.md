@@ -14,6 +14,7 @@
 
 
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -93,6 +94,7 @@
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->  
+<a href="https://dzone.com/articles/evolution-from-traditional-automation-ai-driven-mcp" target="_blank"><img img style="margin: 10px" alt="MCP" src="https://github.com/user-attachments/assets/6a9e7573-aaa4-4957-a9bd-54f0c831089b" height="50"/></a>
 <a href="https://medium.com/@shivi.kashyap/fueling-cloud-innovation-with-finops-799388567bb6" target="_blank"><img style="margin: 10px" src="https://github.com/shivik/shivik/blob/main/medium.png" alt="Go" height="50" /></a>
 <a href="https://medium.com/@shivi.kashyap/google-gemini-latest-ai-marvel-0e1d4832ab69" target="_blank"><img style="margin: 10px" src="https://github.com/shivik/shivik/blob/main/medium.png" alt="Go" height="50" /></a>
 <a href="https://medium.com/dev-genius/exploring-the-power-of-collaboration-a-deep-dive-github-platform-914c5d5e06c2" target="_blank"><img style="margin: 10px" src="https://github.com/shivik/shivik/blob/main/medium.png" alt="Go" height="50" /></a> 

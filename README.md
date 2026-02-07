@@ -1,26 +1,20 @@
 <div align="center">
 <img src="https://github.com/shivik/shivik/blob/main/ibm_cloud.svg" align="center" style="width: 20%" />
-</div>  
+</div>
   
 
 ### <div align="center">I'm Shivi, a Back-end Developer 👨‍💻☁️</div>  
   
 
-- 🔭 I’m currently working in [IBM](https://www.ibm.com)  
-  
+- 🔭 I’m currently working in [IBM](https://www.ibm.com)
 
-- 🌱 currently learning Go  
-  
-
-- ⚡ Ask me about anything related to Cloud Security and Back-end Technologies  
-  
+- ⚡ Ask me about anything related to Cloud Security and Back-end Technologies
 
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Backend  
